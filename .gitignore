@@ -1,0 +1,15 @@
+# Sistem Operasi & Finder
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log & Sementara
+*.log
+*.tmp
+
+# Editor & IDE
+.vscode/
+.idea/
+
+# Dependensi (jika ada tooling lokal)
+node_modules/
